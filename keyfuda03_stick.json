@@ -1,0 +1,17 @@
+{
+    "name": "KeyFuda03_stick",
+    "vendorId": "0x04D8",
+    "productId": "0xE76F",
+    "lighting": "none",
+    "matrix": { "rows": 1, "cols": 6 },
+    "layouts": {
+        "keymap": [
+            [{"w":1.5,"h":1.5},"0,5\n\n\n\n\n\n\n\n\ne0"],
+            [{"y":0.5,"h":0.5},"0,4"],
+            [{"y":-0.5},"0,3"],
+            ["0,2"],
+            ["0,1"],
+            ["0,0"]
+        ]
+    }
+}
